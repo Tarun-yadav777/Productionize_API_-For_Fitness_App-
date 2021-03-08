@@ -44,9 +44,9 @@ Demo Picture:-
                     f.Training is done on multiple model with Hyper-Parameter tuning<br>
                     g.Best Model is selected for prediction and saved<br>
 Demo Picture:-
-<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/train.png"  width="250" height="250" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/train.PNG"  width="500" height="300" /><br>
 Demo Picture:-
-<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/model.png"  width="100" height="50" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/model.PNG"  width="100" height="50" /><br>
 
 ### How To Use
 ## How to run the project?
