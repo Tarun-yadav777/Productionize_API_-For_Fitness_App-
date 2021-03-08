@@ -33,7 +33,7 @@ Demo Picture:-
                     e.Data is fetched from DataBase for Prediction<br>
                     f.Data is provided in Json Format<br>
 Demo Picture:-
-<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/predictm.png"  width="250" height="250" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/predictm.PNG"  width="500" height="300" /><br>
                     
 <h4>3.Train model on your data and get predictions</h4>:-Training is done by sending the API request of the path of the batch files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
