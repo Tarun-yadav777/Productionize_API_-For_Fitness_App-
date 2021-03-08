@@ -46,7 +46,7 @@ Demo Picture:-
 Demo Picture:-
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/train.PNG"  width="500" height="300" /><br>
 Demo Picture:-
-<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/model.PNG"  width="200" height="100" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/model.PNG"  width="200" height="80" /><br>
 
 ### How To Use
 ## How to run the project?
