@@ -28,9 +28,9 @@ The details of the prodictionized api is that there are three categories:-<br>
 3.Train model on your data and get predictions.<br>
 
 
-<h5>1.Predict from model trained by me for a single records</h5>:- Predict is done from the model which is created by me which give farely around 99.5% accuracy(XGBoost) on test data which is trained on over 15,000 records of data on multiple ML models and XGBoost outperforms every other model with 99.5% accuracy with 0.09 standard deviation.<br>
+<h4>1.Predict from model trained by me for a single records</h4>:- Predict is done from the model which is created by me which give farely around 99.5% accuracy(XGBoost) on test data which is trained on over 15,000 records of data on multiple ML models and XGBoost outperforms every other model with 99.5% accuracy with 0.09 standard deviation.<br>
 
-<h5>2.Predict from model created by me for multiple records in flies</h5>:-Predict is done by sending the API request of the path of the Batch_files and follow the below pipeline:-<br>
+<h4>2.Predict from model created by me for multiple records in flies</h4>:-Predict is done by sending the API request of the path of the Batch_files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
                     b.Validate Format of Data<br>
                     c.Preprocess Data<br>
@@ -38,7 +38,7 @@ The details of the prodictionized api is that there are three categories:-<br>
                     e.Data is fetched from DataBase for Prediction<br>
                     f.Data is provided in Json Format<br>
                     
-<h5>3.Train model on your data and get predictions</h5>:-Training is done by sending the API request of the path of the batch files and follow the below pipeline:-<br>
+<h4>3.Train model on your data and get predictions</h4>:-Training is done by sending the API request of the path of the batch files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
                     b.Validate Format of Data<br>
                     c.Preprocess Data<br>
