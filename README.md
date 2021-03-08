@@ -60,11 +60,11 @@ The details of the prodictionized api is that there are three categories:-<br>
 
 
 ### References
-1.Google
-2.Kaggle
-3.Youtube
-4.Stackoverflow
-5.iNeuron
+1.Google<br>
+2.Kaggle<br>
+3.Youtube<br>
+4.Stackoverflow<br>
+5.iNeuron<br>
 
 ---
 
