@@ -22,9 +22,10 @@ You're sections headers will be used to reference location of destination.
 
 This application provides the service for the prediction of Calories burned for the fitness app through API request.
 
-The details of the prodictionized api is that there are three categories 1.Predict from model trained by me for a single records.<br>
-                                                                         2.Predict from model created by me for multiple records in flies.<br>
-                                                                         3.Train model on your data and get predictions.<br>
+The details of the prodictionized api is that there are three categories:-<br> 
+1.Predict from model trained by me for a single records.<br>
+2.Predict from model created by me for multiple records in flies.<br>
+3.Train model on your data and get predictions.<br>
 <b>1.Predict from model trained by me for a single records</b>:- Predict is done from the model which is created by me which give farely around 99.5% accuracy(XGBoost) on test data which is trained on over 15,000 records of data on multiple ML models and XGBoost outperforms every other model with 99.5% accuracy with 0.09 standard deviation.
 <b>2.Predict from model created by me for multiple records in flies</b>:-Predict is done by sending the API request of the path of the Batch_files and follow the below pipeline:-
                     a.Validate File Name Format
