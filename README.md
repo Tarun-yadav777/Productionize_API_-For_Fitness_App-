@@ -4,17 +4,10 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Demo](#demo)
 - [Overview](#overview)
 - [How To Use](#how-to-use)
 - [Tool Used](#tool-used)
 - [Author Info](#author-info)
-
----
-
-### Demo
-
-![GIF](./static/gif.gif)
 
 ---
 
@@ -29,6 +22,8 @@ The details of the prodictionized api is that there are three categories:-<br>
 
 
 <h4>1.Predict from model trained by me for a single records</h4>:- Predict is done from the model which is created by me which give farely around 99.5% accuracy(XGBoost) on test data which is trained on over 15,000 records of data on multiple ML models and XGBoost outperforms every other model with 99.5% accuracy with 0.09 standard deviation.<br>
+Demo Picture:-
+<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/landing.png"  width="250" height="250" /><br>
 
 <h4>2.Predict from model created by me for multiple records in flies</h4>:-Predict is done by sending the API request of the path of the Batch_files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
@@ -37,6 +32,8 @@ The details of the prodictionized api is that there are three categories:-<br>
                     d.Send validated and processed data to DataBase<br>
                     e.Data is fetched from DataBase for Prediction<br>
                     f.Data is provided in Json Format<br>
+Demo Picture:-
+<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/predictm.png"  width="250" height="250" /><br>
                     
 <h4>3.Train model on your data and get predictions</h4>:-Training is done by sending the API request of the path of the batch files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
@@ -46,7 +43,10 @@ The details of the prodictionized api is that there are three categories:-<br>
                     e.Data is fetched from DataBase for training<br>
                     f.Training is done on multiple model with Hyper-Parameter tuning<br>
                     g.Best Model is selected for prediction and saved<br>
-                    
+Demo Picture:-
+<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/train.png"  width="250" height="250" /><br>
+Demo Picture:-
+<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/model.png"  width="100" height="50" /><br>
 
 ### How To Use
 ## How to run the project?
