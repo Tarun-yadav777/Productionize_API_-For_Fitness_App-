@@ -1,0 +1,10 @@
+2021-03-08/13:23:46		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-08/13:27:33		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-08/13:32:18		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-08/13:50:28		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-08/16:04:24		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+

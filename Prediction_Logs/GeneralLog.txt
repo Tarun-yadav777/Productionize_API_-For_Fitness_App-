@@ -1,0 +1,55 @@
+2021-03-05/15:02:49		BadRaw directory deleted successfully!!!
+2021-03-05/15:02:49		GoodRaw directory deleted successfully!!!
+2021-03-05/15:04:01		BadRaw directory deleted successfully!!!
+2021-03-05/15:04:01		GoodRaw directory deleted successfully!!!
+2021-03-05/15:07:26		BadRaw directory deleted successfully!!!
+2021-03-05/15:07:26		GoodRaw directory deleted successfully!!!
+2021-03-05/15:10:33		BadRaw directory deleted successfully!!!
+2021-03-05/15:10:33		GoodRaw directory deleted successfully!!!
+2021-03-05/15:10:35		BadRaw directory deleted successfully!!!
+2021-03-05/15:10:35		GoodRaw directory deleted successfully!!!
+2021-03-05/15:21:44		BadRaw directory deleted successfully!!!
+2021-03-05/15:21:44		GoodRaw directory deleted successfully!!!
+2021-03-05/15:21:46		BadRaw directory deleted successfully!!!
+2021-03-05/15:21:46		GoodRaw directory deleted successfully!!!
+2021-03-05/15:21:46		BadRaw directory deleted successfully!!!
+2021-03-05/15:21:46		GoodRaw directory deleted successfully!!!
+2021-03-05/15:33:19		BadRaw directory deleted successfully!!!
+2021-03-05/15:33:19		GoodRaw directory deleted successfully!!!
+2021-03-05/15:33:21		BadRaw directory deleted successfully!!!
+2021-03-05/15:33:21		GoodRaw directory deleted successfully!!!
+2021-03-05/15:33:21		BadRaw directory deleted successfully!!!
+2021-03-05/15:33:21		GoodRaw directory deleted successfully!!!
+2021-03-05/15:33:22		BadRaw directory deleted successfully!!!
+2021-03-05/15:33:22		GoodRaw directory deleted successfully!!!
+2021-03-05/15:33:54		BadRaw directory deleted successfully!!!
+2021-03-05/15:33:54		GoodRaw directory deleted successfully!!!
+2021-03-05/15:35:12		BadRaw directory deleted successfully!!!
+2021-03-05/15:35:12		GoodRaw directory deleted successfully!!!
+2021-03-05/15:38:49		BadRaw directory deleted successfully!!!
+2021-03-05/15:38:49		GoodRaw directory deleted successfully!!!
+2021-03-05/15:40:05		GoodRaw directory deleted successfully!!!
+2021-03-06/13:51:55		BadRaw directory deleted successfully!!!
+2021-03-06/13:53:08		GoodRaw directory deleted successfully!!!
+2021-03-06/14:00:51		BadRaw directory deleted successfully!!!
+2021-03-06/14:02:05		GoodRaw directory deleted successfully!!!
+2021-03-06/14:02:05		Bad files moved to archive
+2021-03-06/14:02:05		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:05:52		GoodRaw directory deleted successfully!!!
+2021-03-06/14:05:52		Bad files moved to archive
+2021-03-06/14:05:52		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:08:55		GoodRaw directory deleted successfully!!!
+2021-03-06/14:08:55		Bad files moved to archive
+2021-03-06/14:08:55		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:11:34		GoodRaw directory deleted successfully!!!
+2021-03-06/14:11:34		Bad files moved to archive
+2021-03-06/14:11:34		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:13:18		GoodRaw directory deleted successfully!!!
+2021-03-06/14:13:18		Bad files moved to archive
+2021-03-06/14:13:18		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:15:49		GoodRaw directory deleted successfully!!!
+2021-03-06/14:15:49		Bad files moved to archive
+2021-03-06/14:15:49		Bad Raw Data Folder Deleted successfully!!
+2021-03-06/14:17:52		GoodRaw directory deleted successfully!!!
+2021-03-06/14:17:52		Bad files moved to archive
+2021-03-06/14:17:52		Bad Raw Data Folder Deleted successfully!!

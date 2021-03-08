@@ -1,0 +1,20 @@
+2021-03-05/15:10:33		Error while creating table: unable to open database file 
+2021-03-05/15:10:35		Error while creating table: unable to open database file 
+2021-03-05/15:21:45		Error while creating table: unable to open database file 
+2021-03-05/15:21:46		Error while creating table: unable to open database file 
+2021-03-05/15:21:46		Error while creating table: unable to open database file 
+2021-03-05/15:33:19		Error while creating table: unable to open database file 
+2021-03-05/15:33:21		Error while creating table: unable to open database file 
+2021-03-05/15:33:22		Error while creating table: unable to open database file 
+2021-03-05/15:33:22		Error while creating table: unable to open database file 
+2021-03-05/15:33:54		Error while creating table: unable to open database file 
+2021-03-05/15:35:12		Error while creating table: 'int' object has no attribute 'keys' 
+2021-03-05/15:38:49		Tables created successfully!!
+2021-03-06/13:51:55		Tables created successfully!!
+2021-03-06/14:00:51		Tables created successfully!!
+2021-03-06/14:04:36		Tables created successfully!!
+2021-03-06/14:07:42		Tables created successfully!!
+2021-03-06/14:10:15		Tables created successfully!!
+2021-03-06/14:12:03		Tables created successfully!!
+2021-03-06/14:14:29		Tables created successfully!!
+2021-03-06/14:16:33		Tables created successfully!!

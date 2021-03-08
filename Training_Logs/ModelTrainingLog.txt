@@ -1,0 +1,75 @@
+2021-03-08/13:28:48		Start of Training
+2021-03-08/13:28:48		Entered the get_data method of the Data_Getter class
+2021-03-08/13:28:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-08/13:28:48		Entered the separate_label_feature method of the Preprocessor class
+2021-03-08/13:28:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-03-08/13:28:48		Entered the is_null_present method of the Preprocessor class
+2021-03-08/13:28:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-08/13:28:48		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:28:48		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:28:48		Entered the remove_columns method of the Preprocessor class
+2021-03-08/13:28:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-08/13:28:48		Entered the get_best_model method of the Model_Finder class
+2021-03-08/13:28:48		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:28:51		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  [13:28:51] C:/Users/Administrator/workspace/xgboost-win64_release_1.3.0/src/objective/regression_obj.cu:102: label must be in [0,1] for logistic regression
+2021-03-08/13:28:51		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:28:51		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2021-03-08/13:28:51		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-03-08/13:28:51		Unsuccessful End of Training
+2021-03-08/13:33:45		Start of Training
+2021-03-08/13:33:45		Entered the get_data method of the Data_Getter class
+2021-03-08/13:33:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-08/13:33:45		Entered the separate_label_feature method of the Preprocessor class
+2021-03-08/13:33:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-03-08/13:33:45		Entered the is_null_present method of the Preprocessor class
+2021-03-08/13:33:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-08/13:33:45		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:33:45		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:33:45		Entered the remove_columns method of the Preprocessor class
+2021-03-08/13:33:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-08/13:33:45		Entered the get_best_model method of the Model_Finder class
+2021-03-08/13:33:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:40:32		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:40:32		Exception occured in get_best_model method of the Model_Finder class. Exception message:  multi_class must be in ('ovo', 'ovr')
+2021-03-08/13:40:32		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2021-03-08/13:40:32		Unsuccessful End of Training
+2021-03-08/13:51:58		Start of Training
+2021-03-08/13:51:58		Entered the get_data method of the Data_Getter class
+2021-03-08/13:51:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-08/13:51:58		Entered the separate_label_feature method of the Preprocessor class
+2021-03-08/13:51:58		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-03-08/13:51:58		Entered the is_null_present method of the Preprocessor class
+2021-03-08/13:51:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-08/13:51:58		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:51:58		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/13:51:58		Entered the remove_columns method of the Preprocessor class
+2021-03-08/13:51:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-08/13:51:58		Entered the get_best_model method of the Model_Finder class
+2021-03-08/13:51:58		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:59:57		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/13:59:57		AUC for XGBoost:0.9998157335254726
+2021-03-08/13:59:57		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-03-08/16:00:35		Random Forest best params: {'criterion': 'mse', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-03-08/16:00:35		AUC for RF:0.9442532178246431
+2021-03-08/16:00:35		Unsuccessful End of Training
+2021-03-08/16:06:14		Start of Training
+2021-03-08/16:06:14		Entered the get_data method of the Data_Getter class
+2021-03-08/16:06:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-08/16:06:14		Entered the separate_label_feature method of the Preprocessor class
+2021-03-08/16:06:14		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2021-03-08/16:06:14		Entered the is_null_present method of the Preprocessor class
+2021-03-08/16:06:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2021-03-08/16:06:14		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/16:06:14		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2021-03-08/16:06:14		Entered the remove_columns method of the Preprocessor class
+2021-03-08/16:06:14		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-03-08/16:06:14		Entered the get_best_model method of the Model_Finder class
+2021-03-08/16:06:14		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/16:14:30		XGBoost best params: {'learning_rate': 0.1, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2021-03-08/16:14:30		AUC for XGBoost:0.9999502096624509
+2021-03-08/16:14:30		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2021-03-08/16:53:33		Random Forest best params: {'criterion': 'mse', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 50}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+2021-03-08/16:53:33		r2 score:0.9455982622028695
+2021-03-08/16:53:33		Entered the save_model method of the File_Operation class
+2021-03-08/16:53:37		Model File XGBoost saved. Exited the save_model method of the Model_Finder class
+2021-03-08/16:53:37		Successful End of Training

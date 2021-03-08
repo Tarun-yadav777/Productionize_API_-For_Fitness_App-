@@ -1,0 +1,12 @@
+2021-03-08/13:27:33		Valid File name!! File moved to GoodRaw Folder :: data_01012021.csv
+2021-03-08/13:27:33		Valid File name!! File moved to GoodRaw Folder :: data_01022021.csv
+2021-03-08/13:27:33		Valid File name!! File moved to GoodRaw Folder :: data_01032021.csv
+2021-03-08/13:32:18		Valid File name!! File moved to GoodRaw Folder :: data_01012021.csv
+2021-03-08/13:32:18		Valid File name!! File moved to GoodRaw Folder :: data_01022021.csv
+2021-03-08/13:32:18		Valid File name!! File moved to GoodRaw Folder :: data_01032021.csv
+2021-03-08/13:50:28		Valid File name!! File moved to GoodRaw Folder :: data_01012021.csv
+2021-03-08/13:50:28		Valid File name!! File moved to GoodRaw Folder :: data_01022021.csv
+2021-03-08/13:50:28		Valid File name!! File moved to GoodRaw Folder :: data_01032021.csv
+2021-03-08/16:04:24		Valid File name!! File moved to GoodRaw Folder :: data_01012021.csv
+2021-03-08/16:04:24		Valid File name!! File moved to GoodRaw Folder :: data_01022021.csv
+2021-03-08/16:04:24		Valid File name!! File moved to GoodRaw Folder :: data_01032021.csv

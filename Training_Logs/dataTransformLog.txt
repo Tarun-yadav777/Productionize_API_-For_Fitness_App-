@@ -1,0 +1,12 @@
+2021-03-08/13:27:33		 data_01012021.csv: File Transformed successfully!!
+2021-03-08/13:27:33		 data_01022021.csv: File Transformed successfully!!
+2021-03-08/13:27:33		 data_01032021.csv: File Transformed successfully!!
+2021-03-08/13:32:18		 data_01012021.csv: File Transformed successfully!!
+2021-03-08/13:32:18		 data_01022021.csv: File Transformed successfully!!
+2021-03-08/13:32:18		 data_01032021.csv: File Transformed successfully!!
+2021-03-08/13:50:28		 data_01012021.csv: File Transformed successfully!!
+2021-03-08/13:50:28		 data_01022021.csv: File Transformed successfully!!
+2021-03-08/13:50:28		 data_01032021.csv: File Transformed successfully!!
+2021-03-08/16:04:25		 data_01012021.csv: File Transformed successfully!!
+2021-03-08/16:04:25		 data_01022021.csv: File Transformed successfully!!
+2021-03-08/16:04:25		 data_01032021.csv: File Transformed successfully!!

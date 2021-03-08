@@ -1,0 +1,55 @@
+2021-03-05/14:52:36		KeyError:Key value error incorrect key passed
+2021-03-05/14:52:41		KeyError:Key value error incorrect key passed
+2021-03-05/14:54:14		KeyError:Key value error incorrect key passed
+2021-03-05/14:55:55		KeyError:Key value error incorrect key passed
+2021-03-05/14:56:12		KeyError:Key value error incorrect key passed
+2021-03-05/15:00:05		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:01:21		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:02:49		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:04:01		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:07:26		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:10:33		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:10:35		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:21:44		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:21:46		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:21:46		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:33:19		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:33:21		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:33:21		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:33:22		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:33:54		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:35:12		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-05/15:38:49		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/13:51:55		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:00:51		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:04:36		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:07:42		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:10:15		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:12:03		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:14:29		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+
+2021-03-06/14:16:33		LengthOfDateStampInFile:: 8	NumberofColumns:: 6
+

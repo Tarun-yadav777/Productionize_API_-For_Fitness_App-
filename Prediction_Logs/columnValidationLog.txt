@@ -1,0 +1,83 @@
+2021-03-05/15:04:01		Column Length Validation Started!!
+2021-03-05/15:04:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:04:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:04:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:04:01		Column Length Validation Completed!!
+2021-03-05/15:07:26		Column Length Validation Started!!
+2021-03-05/15:07:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:07:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:07:26		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:07:26		Column Length Validation Completed!!
+2021-03-05/15:10:33		Column Length Validation Started!!
+2021-03-05/15:10:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:10:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:10:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:10:33		Column Length Validation Completed!!
+2021-03-05/15:10:35		Column Length Validation Started!!
+2021-03-05/15:10:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:10:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:10:35		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:10:35		Column Length Validation Completed!!
+2021-03-05/15:21:45		Column Length Validation Started!!
+2021-03-05/15:21:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:21:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:21:45		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:21:45		Column Length Validation Completed!!
+2021-03-05/15:21:46		Column Length Validation Started!!
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:21:46		Column Length Validation Completed!!
+2021-03-05/15:21:46		Column Length Validation Started!!
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:21:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:21:46		Column Length Validation Completed!!
+2021-03-05/15:33:19		Column Length Validation Started!!
+2021-03-05/15:33:19		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:33:19		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:33:19		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:33:19		Column Length Validation Completed!!
+2021-03-05/15:33:21		Column Length Validation Started!!
+2021-03-05/15:33:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:33:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:33:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:33:21		Column Length Validation Completed!!
+2021-03-05/15:33:21		Column Length Validation Started!!
+2021-03-05/15:33:21		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:33:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:33:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:33:22		Column Length Validation Completed!!
+2021-03-05/15:33:22		Column Length Validation Started!!
+2021-03-05/15:33:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:33:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:33:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:33:22		Column Length Validation Completed!!
+2021-03-05/15:33:54		Column Length Validation Started!!
+2021-03-05/15:33:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:33:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:33:54		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:33:54		Column Length Validation Completed!!
+2021-03-05/15:35:12		Column Length Validation Started!!
+2021-03-05/15:35:12		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01012021.csv
+2021-03-05/15:35:12		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01022021.csv
+2021-03-05/15:35:12		Invalid Column Length for the file!! File moved to Bad Raw Folder :: data_01032021.csv
+2021-03-05/15:35:12		Column Length Validation Completed!!
+2021-03-05/15:38:49		Column Length Validation Started!!
+2021-03-05/15:38:49		Column Length Validation Completed!!
+2021-03-06/13:51:55		Column Length Validation Started!!
+2021-03-06/13:51:55		Column Length Validation Completed!!
+2021-03-06/14:00:51		Column Length Validation Started!!
+2021-03-06/14:00:51		Column Length Validation Completed!!
+2021-03-06/14:04:36		Column Length Validation Started!!
+2021-03-06/14:04:36		Column Length Validation Completed!!
+2021-03-06/14:07:42		Column Length Validation Started!!
+2021-03-06/14:07:42		Column Length Validation Completed!!
+2021-03-06/14:10:15		Column Length Validation Started!!
+2021-03-06/14:10:15		Column Length Validation Completed!!
+2021-03-06/14:12:03		Column Length Validation Started!!
+2021-03-06/14:12:03		Column Length Validation Completed!!
+2021-03-06/14:14:29		Column Length Validation Started!!
+2021-03-06/14:14:29		Column Length Validation Completed!!
+2021-03-06/14:16:33		Column Length Validation Started!!
+2021-03-06/14:16:33		Column Length Validation Completed!!

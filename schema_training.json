@@ -1,0 +1,13 @@
+{
+  "SampleFileName": "data_08012020.csv",
+  "LengthOfDateStampInFile": 8,
+  "NumberofColumns" : 6,
+  "ColName": {
+    "Age": "int",
+    "Weight":  "int",
+    "Duration":  "int",
+    "Heart_Rate": "int",
+    "Body_Temp":  "int",
+    "Calories": "int"
+  }
+}
