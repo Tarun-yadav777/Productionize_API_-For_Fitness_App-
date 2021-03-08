@@ -45,6 +45,8 @@ Demo Picture:-
                     g.Best Model is selected for prediction and saved<br>
 Demo Picture:-
 <img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/train.png"  width="250" height="250" /><br>
+Demo Picture:-
+<img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/model.png"  width="100" height="50" /><br>
 
 ### How To Use
 ## How to run the project?
