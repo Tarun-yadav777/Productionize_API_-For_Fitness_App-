@@ -26,7 +26,7 @@ Demo Picture:-
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/landing.PNG"  width="500" height="300" /><br>
 
 <h4>A logger is also developed to veiw the Real Time process of the whole Prection process.</h4>
-<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/prediction_logs.PNG"  width="500" height="300" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/prediction_logs.PNG" /><br>
 
 <h4>2.Predict from model created by me for multiple records in flies</h4>:-Predict is done by sending the API request of the path of the Batch_files and follow the below pipeline:-<br>
                     a.Validate File Name Format<br>
@@ -48,7 +48,7 @@ Demo Picture:-
                     g.Best Model is selected for prediction and saved<br>
 
 <h4>A logger is also developed to veiw the Real Time process of the whole Training process.</h4>
-<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/training_logs.PNG"  width="500" height="300" /><br>
+<img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/training_logs.PNG"  /><br>
 
 Demo Picture:-
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/train.PNG"  width="500" height="300" /><br>
