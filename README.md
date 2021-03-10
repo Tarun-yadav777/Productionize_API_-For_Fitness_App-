@@ -50,9 +50,9 @@ Demo Picture:-
 <h4>A logger is also developed to veiw the Real Time process of the whole Training process.</h4>
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/training_logs.PNG"  /><br>
 
-Demo Picture:-
+Demo Picture:-<br>
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/train.PNG"  width="500" height="300" /><br>
-Demo Picture:-
+Demo Picture:-<br>
 <img src="https://github.com/Tarun-yadav777/Productionize_API_-For_Fitness_App-/blob/main/static/model.PNG" /><br>
 
 ### How To Use
